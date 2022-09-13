@@ -28,3 +28,16 @@
   background: #F2F4F3;;
   color: #9c5a77;
 }
+
+.btn-slim {
+  color: #F2F4F3;
+  padding: 5px 24px;
+  border-radius: 4px;
+  background: #9c5a77;
+  transition: background 0.5s ease;
+}
+
+.btn-slim:hover {
+  background: #F2F4F3;;
+  color: #9c5a77;
+}

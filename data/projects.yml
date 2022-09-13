@@ -1,19 +1,11 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Tokyo Vinyls
+  description: A marketplace app connecting vinyl collectors in Tokyo and allowing them to find rare records in the area.
+  stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
+  image: projects/tokyovinyls.png
+  url: www.tokyo-vinyls.herokuapp.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: toFuture
+  description: A web app allowing users to find sustainable companies and stocks that align with their values, comparing various products based on ESG Scores.
+  stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
+  image: projects/tofuture.png
+  url: www.tofuture.co
