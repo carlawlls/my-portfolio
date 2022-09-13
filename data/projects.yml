@@ -2,10 +2,10 @@
   description: A marketplace app connecting vinyl collectors in Tokyo and allowing them to find rare records in the area.
   stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
   image: projects/tokyovinyls.png
-  url: www.tokyo-vinyls.herokuapp.com
+  url: https://tokyo-vinyls.herokuapp.com/
 
 - name: toFuture
   description: A web app allowing users to find sustainable companies and stocks that align with their values, comparing various products based on ESG Scores.
   stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
   image: projects/tofuture.png
-  url: www.tofuture.co
+  url: https://www.tofuture.co
