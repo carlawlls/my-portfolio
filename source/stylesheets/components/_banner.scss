@@ -1,14 +1,20 @@
 .banner {
   height: 100vh;
-  display: flex;
   justify-content: center;
   align-items: center;
+  display: flex;
+}
+
+.banner-content {
+  display: flex;
   gap: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
 .banner-text {
-  max-width: 400px;
   color: #F2F4F3;
+  max-width: 400px;
 
   h1 {
     font-size: 56px;
@@ -16,7 +22,17 @@
 }
 
 @media (max-width: 700px) {
-  .banner {
+  .banner-content {
     display: block;
+  }
+
+  .banner-text {
+    text-align: center;
+    padding-bottom: 50px;
+    max-width: unset;
+  }
+
+  .banner-img {
+    text-align: center;
   }
 }
