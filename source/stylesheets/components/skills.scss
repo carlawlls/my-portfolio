@@ -10,3 +10,10 @@
 .icon-row {
   padding-bottom: 24px;
 }
+
+@media (max-width: 900px) {
+  #skills {
+    width: unset;
+    margin-top: 3rem!important;
+  }
+}
