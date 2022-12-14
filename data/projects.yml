@@ -1,11 +1,11 @@
 - name: Tokyo Vinyls
   description: A marketplace app connecting record collectors in Tokyo and allowing them to make offers and/or bookings for vinyls.
-  stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
+  stack: Rails 7, Stimulus JS, PostgreSQL, Bootstrap, Figma
   image: projects/tokyovinyls.png
-  url: https://tokyo-vinyls.herokuapp.com/
+  url: https://tokyo-vinyls.fly.dev/
 
 - name: toFuture
   description: A web app built in 10 days that allows users to find sustainable investment opportunities through a community platform.
-  stack: Rails 7, Stimulus JS, Heroku, PostgreSQL, Bootstrap, Figma
+  stack: Rails 7, Stimulus JS, PostgreSQL, Bootstrap, Figma
   image: projects/tofuture.png
-  url: https://www.tofuture.co
+  url: https://tofuture.fly.dev/
