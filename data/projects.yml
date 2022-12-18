@@ -11,7 +11,7 @@
   url: https://tofuture.fly.dev/
 
 - name: React Airbnb Clone
-description: My first React project - A simple Airbnb clone built with Vite.
-stack: React, Vite, Figma, Netlify
-image: projects/react-airbnb.png
-url: https://venerable-cannoli-affc8c.netlify.app/
+  description: My first React project - A simple Airbnb Experiences landing page built with Vite.
+  stack: React, Vite, Figma, Netlify
+  image: projects/react-airbnb.png
+  url: https://venerable-cannoli-affc8c.netlify.app/
