@@ -3,27 +3,32 @@
   stack: Rails 7, Stimulus JS, PostgreSQL, Bootstrap, Figma
   image: projects/tokyovinyls.png
   url: https://tokyo-vinyls.fly.dev/
+  gh: https://github.com/carlawlls/tokyo-vinyls
 
 - name: toFuture
   description: A web app built in 10 days that allows users to find sustainable investment opportunities through a community platform.
   stack: Rails 7, Stimulus JS, PostgreSQL, Bootstrap, Figma
   image: projects/tofuture.png
   url: https://tofuture.fly.dev/
+  gh: https://github.com/carlawlls/tofuture
 
 - name: React Travel Journal
   description: A journal to keep track of my recent travels.
   stack: React, CRA, Figma, Netlify
   image: projects/react-travel.png
   url: https://shiny-biscochitos-e8d319.netlify.app/
+  gh: https://github.com/carlawlls/react-travel-journal
 
 - name: React Airbnb Clone
   description: My first React project - A clone of the Airbnb Experiences landing page.
   stack: React, Vite, Figma, Netlify
   image: projects/react-airbnb.png
   url: https://venerable-cannoli-affc8c.netlify.app/
+  gh: https://github.com/carlawlls/react-airbnb-clone
 
 - name: React Tic Tac Toe
   description: Simple Tic Tac Toe game built with React.
   stack: React, CRA, Netlify
   image: projects/react-tictactoe.png
   url: https://sunny-paletas-7ecf02.netlify.app/
+  gh: https://github.com/carlawlls/react-tic-tac-toe
