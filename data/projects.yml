@@ -11,13 +11,13 @@
   url: https://tofuture.fly.dev/
 
 - name: React Travel Journal
-  description: A simple journal of my recent travels built with React and CRA.
+  description: A journal to keep track of my recent travels.
   stack: React, CRA, Figma, Netlify
   image: projects/react-travel.png
   url: https://shiny-biscochitos-e8d319.netlify.app/
 
 - name: React Airbnb Clone
-  description: My first React project - A simple Airbnb Experiences landing page built with Vite.
+  description: My first React project - A clone of the Airbnb Experiences landing page.
   stack: React, Vite, Figma, Netlify
   image: projects/react-airbnb.png
   url: https://venerable-cannoli-affc8c.netlify.app/
